@@ -16,6 +16,10 @@ A mini social media application inspired by Instagram, built with **Java Spring 
 - DBeaver (for database visualization & management)
 
 # Run Locally
-2. Configure `application.properties` with your PostgreSQL DB details  
+2. Configure `application.properties` with your PostgreSQL DB details
+
+
+# Screnshot of POSTMAN
+
    ![image alt](https://github.com/Pawan8828/Mini-SocialMediaApp/blob/main/Post%20Register.png?raw=true)
    
